@@ -1,4 +1,4 @@
-package com.fr3nzy.spring_security_demo;
+package com.fr3nzy.spring_security_demo.controller;
 
 
 import jakarta.servlet.http.HttpServletRequest;

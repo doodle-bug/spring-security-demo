@@ -1,7 +1,6 @@
-package com.fr3nzy.spring_security_demo;
+package com.fr3nzy.spring_security_demo.controller;
 
-import jakarta.servlet.http.HttpServletRequest;
-import org.springframework.security.web.csrf.CsrfToken;
+import com.fr3nzy.spring_security_demo.model.Student;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
